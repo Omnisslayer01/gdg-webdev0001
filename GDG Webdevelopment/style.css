@@ -1,0 +1,44 @@
+#navbar{
+    background-color: black;
+    padding: 20px;
+    margin: 0px;
+    color: aquamarine;
+
+}
+
+
+a{
+    color: red;
+    padding: 20px;
+    text-transform: uppercase; /*capitalise- capitals first letter */ /*uppercase- converts all text to capital letter */
+}
+
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+marquee{
+    font-size: 20px;
+}
+
+.details{
+    text-align: center;
+    font-size: 28px;
+    text-decoration: none; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+/* none meaining underline or bold or italic nahi hoga */
+
+
+}
+
+.details2{
+    text-align: center;
+    color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 15px;
+}
+
